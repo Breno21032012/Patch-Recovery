@@ -3,7 +3,7 @@ name: RECOVERY
 on:
   workflow_dispatch:
     inputs:
-      RECOVERY_URL:
+      RECOVERY_URL: https://mega.nz/file/egp3CLYC#3sY3imq_Zv_NCO-xTZ2ef7wL0mPF7scs7OMlMyymah8
         description: 'RECOVERY URL'
         required: true
         default: 'https://files.catbox.moe/(RECOMMENDED)'
